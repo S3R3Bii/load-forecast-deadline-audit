@@ -1,0 +1,3389 @@
+{
+  "native_listing_sha256": "e7d583d7999ed47bd106794b06fcb3e9fe1c3b73e911456731db14dcf7a86714",
+  "documents": [
+    {
+      "DocID": "1292834219",
+      "PublishDate": "2026-10-30T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.193000863.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8751",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292834312",
+      "PublishDate": "2026-10-30T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.193000699.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11046",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292818519",
+      "PublishDate": "2026-10-30T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.183000566.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8712",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292818516",
+      "PublishDate": "2026-10-30T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.183000479.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "10998",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292803471",
+      "PublishDate": "2026-10-30T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.173000582.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8755",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292803468",
+      "PublishDate": "2026-10-30T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.173000461.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11042",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292779163",
+      "PublishDate": "2026-10-30T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.163000830.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8746",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292786722",
+      "PublishDate": "2026-10-30T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.163000522.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "10966",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292771857",
+      "PublishDate": "2026-10-30T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.153000625.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8739",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292771853",
+      "PublishDate": "2026-10-30T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.153000491.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11004",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292756493",
+      "PublishDate": "2026-10-30T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.143000852.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8709",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292756490",
+      "PublishDate": "2026-10-30T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.143000448.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "10993",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292737245",
+      "PublishDate": "2026-10-30T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.133000823.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8757",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292737242",
+      "PublishDate": "2026-10-30T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.133000515.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11010",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292721113",
+      "PublishDate": "2026-10-30T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.123000649.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8717",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292721107",
+      "PublishDate": "2026-10-30T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.123000476.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "10987",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292701979",
+      "PublishDate": "2026-10-30T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.113000830.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8738",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292701977",
+      "PublishDate": "2026-10-30T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.113000684.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "10992",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292689685",
+      "PublishDate": "2026-10-30T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.103000592.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8732",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292689575",
+      "PublishDate": "2026-10-30T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.103000489.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "10978",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292667221",
+      "PublishDate": "2026-10-30T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.093000697.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8725",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292667125",
+      "PublishDate": "2026-10-30T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.093000545.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "10948",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292646108",
+      "PublishDate": "2026-10-30T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.083000650.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8774",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292645419",
+      "PublishDate": "2026-10-30T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.083000480.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11033",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292627267",
+      "PublishDate": "2026-10-30T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.073000589.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9098",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292627266",
+      "PublishDate": "2026-10-30T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.073000484.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11492",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292611959",
+      "PublishDate": "2026-10-30T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.063000606.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9075",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292611869",
+      "PublishDate": "2026-10-30T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.063000510.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11425",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292590944",
+      "PublishDate": "2026-10-30T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.053000575.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9075",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292592259",
+      "PublishDate": "2026-10-30T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.053000456.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11480",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292573628",
+      "PublishDate": "2026-10-30T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.043000588.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9148",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292573625",
+      "PublishDate": "2026-10-30T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.043000493.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11505",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292558588",
+      "PublishDate": "2026-10-30T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.033000605.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9108",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292558331",
+      "PublishDate": "2026-10-30T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.033000498.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11464",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292543526",
+      "PublishDate": "2026-10-30T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.023000602.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9133",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292543250",
+      "PublishDate": "2026-10-30T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.023000504.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11486",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292527591",
+      "PublishDate": "2026-10-30T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.013000773.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9108",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292527587",
+      "PublishDate": "2026-10-30T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.013000701.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11474",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292512277",
+      "PublishDate": "2026-10-30T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.003000703.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9105",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292512275",
+      "PublishDate": "2026-10-30T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261030.003000595.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11466",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292497167",
+      "PublishDate": "2026-10-29T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.233000608.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8976",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292497164",
+      "PublishDate": "2026-10-29T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.233000515.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11335",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292482496",
+      "PublishDate": "2026-10-29T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.223000600.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9005",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292482493",
+      "PublishDate": "2026-10-29T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.223000505.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11391",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292466315",
+      "PublishDate": "2026-10-29T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.213000611.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8972",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292466310",
+      "PublishDate": "2026-10-29T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.213000547.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11350",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292451237",
+      "PublishDate": "2026-10-29T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.203000817.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8994",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292451236",
+      "PublishDate": "2026-10-29T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.203000654.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11371",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292436129",
+      "PublishDate": "2026-10-29T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.193000531.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8998",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292436127",
+      "PublishDate": "2026-10-29T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.193000474.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11345",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292420467",
+      "PublishDate": "2026-10-29T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.183000902.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8952",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292420289",
+      "PublishDate": "2026-10-29T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.183000748.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11335",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292405397",
+      "PublishDate": "2026-10-29T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.173000553.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8995",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292405395",
+      "PublishDate": "2026-10-29T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.173000485.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11375",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292390271",
+      "PublishDate": "2026-10-29T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.163000843.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8979",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292390267",
+      "PublishDate": "2026-10-29T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.163000626.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11339",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292372916",
+      "PublishDate": "2026-10-29T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.153000961.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9029",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292372913",
+      "PublishDate": "2026-10-29T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.153000563.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11386",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292357972",
+      "PublishDate": "2026-10-29T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.143000620.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9026",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292357969",
+      "PublishDate": "2026-10-29T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.143000530.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11410",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292338513",
+      "PublishDate": "2026-10-29T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.133000551.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8988",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292338290",
+      "PublishDate": "2026-10-29T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.133000484.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11374",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292322432",
+      "PublishDate": "2026-10-29T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.123000561.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8981",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292322430",
+      "PublishDate": "2026-10-29T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.123000489.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11367",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292306420",
+      "PublishDate": "2026-10-29T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.113000556.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8986",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292306661",
+      "PublishDate": "2026-10-29T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.113000491.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11344",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292291022",
+      "PublishDate": "2026-10-29T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.103000685.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8962",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292291020",
+      "PublishDate": "2026-10-29T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.103000551.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11341",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292269236",
+      "PublishDate": "2026-10-29T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.093000515.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8981",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292268915",
+      "PublishDate": "2026-10-29T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.093000445.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11372",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292248997",
+      "PublishDate": "2026-10-29T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.083000865.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9002",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292248993",
+      "PublishDate": "2026-10-29T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.083000649.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11390",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292229989",
+      "PublishDate": "2026-10-29T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.073000546.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8757",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292229985",
+      "PublishDate": "2026-10-29T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.073000476.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11087",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292214450",
+      "PublishDate": "2026-10-29T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.063000687.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8755",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292214447",
+      "PublishDate": "2026-10-29T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.063000617.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11067",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292195563",
+      "PublishDate": "2026-10-29T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.053000655.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8752",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292195561",
+      "PublishDate": "2026-10-29T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.053000569.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11067",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292177263",
+      "PublishDate": "2026-10-29T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.043000655.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8745",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292177261",
+      "PublishDate": "2026-10-29T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.043000562.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11074",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292162119",
+      "PublishDate": "2026-10-29T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.033000662.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8744",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292162211",
+      "PublishDate": "2026-10-29T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.033000600.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11043",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292147108",
+      "PublishDate": "2026-10-29T02:30:01-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.023001365.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8741",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292147107",
+      "PublishDate": "2026-10-29T02:30:01-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.023001093.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11085",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292131627",
+      "PublishDate": "2026-10-29T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.013000669.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8747",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292131625",
+      "PublishDate": "2026-10-29T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.013000588.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11060",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292116566",
+      "PublishDate": "2026-10-29T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.003000493.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8768",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292116562",
+      "PublishDate": "2026-10-29T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261029.003000429.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11052",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292101378",
+      "PublishDate": "2026-10-28T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.233000577.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8767",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292101181",
+      "PublishDate": "2026-10-28T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.233000454.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11115",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292086458",
+      "PublishDate": "2026-10-28T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.223000598.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8763",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292086271",
+      "PublishDate": "2026-10-28T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.223000519.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11091",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292070240",
+      "PublishDate": "2026-10-28T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.213000579.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8729",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292070216",
+      "PublishDate": "2026-10-28T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.213000518.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11083",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292055110",
+      "PublishDate": "2026-10-28T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.203000699.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8747",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292055104",
+      "PublishDate": "2026-10-28T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.203000513.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11116",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292040340",
+      "PublishDate": "2026-10-28T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.193000669.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8717",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292040335",
+      "PublishDate": "2026-10-28T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.193000493.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11043",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292024736",
+      "PublishDate": "2026-10-28T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.183000603.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8714",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292024626",
+      "PublishDate": "2026-10-28T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.183000504.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11066",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292009735",
+      "PublishDate": "2026-10-28T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.173000568.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8718",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1292009728",
+      "PublishDate": "2026-10-28T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.173000481.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11081",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291993502",
+      "PublishDate": "2026-10-28T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.163000965.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8770",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291993593",
+      "PublishDate": "2026-10-28T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.163000546.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11128",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291978536",
+      "PublishDate": "2026-10-28T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.153000539.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8768",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291978828",
+      "PublishDate": "2026-10-28T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.153000433.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11140",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291963783",
+      "PublishDate": "2026-10-28T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.143000750.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8716",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291963778",
+      "PublishDate": "2026-10-28T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.143000425.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11094",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291944087",
+      "PublishDate": "2026-10-28T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.133000695.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8764",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291944081",
+      "PublishDate": "2026-10-28T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.133000536.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11097",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291928030",
+      "PublishDate": "2026-10-28T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.123000586.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8763",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291928027",
+      "PublishDate": "2026-10-28T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.123000476.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11112",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291912400",
+      "PublishDate": "2026-10-28T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.113000541.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8732",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291912206",
+      "PublishDate": "2026-10-28T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.113000422.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11111",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291897526",
+      "PublishDate": "2026-10-28T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.103000542.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8740",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291897524",
+      "PublishDate": "2026-10-28T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.103000447.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11115",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291875841",
+      "PublishDate": "2026-10-28T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.093000603.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8751",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291875837",
+      "PublishDate": "2026-10-28T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.093000491.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11084",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291856397",
+      "PublishDate": "2026-10-28T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.083000530.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8720",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291856392",
+      "PublishDate": "2026-10-28T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.083000450.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11023",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291837390",
+      "PublishDate": "2026-10-28T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.073000557.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8943",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291836988",
+      "PublishDate": "2026-10-28T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.073000483.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11279",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291821921",
+      "PublishDate": "2026-10-28T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.063000616.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8961",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291821920",
+      "PublishDate": "2026-10-28T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.063000564.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11349",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291802978",
+      "PublishDate": "2026-10-28T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.053000774.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8961",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291802975",
+      "PublishDate": "2026-10-28T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.053000622.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11332",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291784665",
+      "PublishDate": "2026-10-28T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.043000535.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8945",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291784322",
+      "PublishDate": "2026-10-28T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.043000463.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11334",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291769742",
+      "PublishDate": "2026-10-28T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.033000792.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8931",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291769737",
+      "PublishDate": "2026-10-28T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.033000544.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11334",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291754645",
+      "PublishDate": "2026-10-28T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.023001003.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8952",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291754643",
+      "PublishDate": "2026-10-28T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.023000880.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11364",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291739642",
+      "PublishDate": "2026-10-28T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.013000748.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8946",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291739734",
+      "PublishDate": "2026-10-28T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.013000570.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11274",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291724283",
+      "PublishDate": "2026-10-28T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.003000522.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8927",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291724279",
+      "PublishDate": "2026-10-28T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261028.003000440.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11281",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291708724",
+      "PublishDate": "2026-10-27T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.233000753.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8839",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291708996",
+      "PublishDate": "2026-10-27T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.233000587.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11162",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291694109",
+      "PublishDate": "2026-10-27T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.223000522.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8799",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291694107",
+      "PublishDate": "2026-10-27T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.223000443.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11108",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291678059",
+      "PublishDate": "2026-10-27T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.213000579.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8865",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291677872",
+      "PublishDate": "2026-10-27T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.213000452.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11184",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291663068",
+      "PublishDate": "2026-10-27T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.203000616.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8853",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291663066",
+      "PublishDate": "2026-10-27T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.203000552.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11232",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291648168",
+      "PublishDate": "2026-10-27T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.193000551.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8841",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291648161",
+      "PublishDate": "2026-10-27T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.193000453.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11176",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291632739",
+      "PublishDate": "2026-10-27T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.183000562.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8820",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291632734",
+      "PublishDate": "2026-10-27T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.183000505.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11156",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291617869",
+      "PublishDate": "2026-10-27T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.173000546.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8880",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291617862",
+      "PublishDate": "2026-10-27T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.173000451.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11194",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291601809",
+      "PublishDate": "2026-10-27T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.163000557.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8828",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291601728",
+      "PublishDate": "2026-10-27T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.163000473.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11160",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291585818",
+      "PublishDate": "2026-10-27T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.153000706.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8846",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291586118",
+      "PublishDate": "2026-10-27T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.153000615.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11193",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291571118",
+      "PublishDate": "2026-10-27T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.143000504.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8855",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291571116",
+      "PublishDate": "2026-10-27T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.143000415.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11206",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291552819",
+      "PublishDate": "2026-10-27T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.133000612.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8843",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291553138",
+      "PublishDate": "2026-10-27T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.133000505.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11217",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291534476",
+      "PublishDate": "2026-10-27T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.123000519.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "8823",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291534261",
+      "PublishDate": "2026-10-27T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.123000457.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11197",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291517289",
+      "PublishDate": "2026-10-27T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.113000790.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9057",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291517283",
+      "PublishDate": "2026-10-27T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.113000639.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11459",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291500831",
+      "PublishDate": "2026-10-27T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.103000717.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9062",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291500727",
+      "PublishDate": "2026-10-27T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.103000624.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11499",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291476669",
+      "PublishDate": "2026-10-27T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.093000547.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9084",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291476667",
+      "PublishDate": "2026-10-27T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.093000490.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11507",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291456034",
+      "PublishDate": "2026-10-27T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.083000475.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9055",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291456286",
+      "PublishDate": "2026-10-27T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.083000425.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11467",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291435552",
+      "PublishDate": "2026-10-27T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.073000614.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9064",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291435551",
+      "PublishDate": "2026-10-27T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.073000544.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11431",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291420021",
+      "PublishDate": "2026-10-27T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.063000605.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9100",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291420018",
+      "PublishDate": "2026-10-27T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.063000419.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11489",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291401073",
+      "PublishDate": "2026-10-27T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.053000592.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9064",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291401017",
+      "PublishDate": "2026-10-27T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.053000483.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11477",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291382251",
+      "PublishDate": "2026-10-27T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.043000520.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9113",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291382248",
+      "PublishDate": "2026-10-27T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.043000457.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11512",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291367159",
+      "PublishDate": "2026-10-27T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.033000634.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9073",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291366998",
+      "PublishDate": "2026-10-27T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.033000426.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11453",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291351716",
+      "PublishDate": "2026-10-27T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.023000862.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9083",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291351888",
+      "PublishDate": "2026-10-27T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.023000769.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11498",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291336676",
+      "PublishDate": "2026-10-27T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.013000965.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9095",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291336672",
+      "PublishDate": "2026-10-27T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.013000863.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11505",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291319777",
+      "PublishDate": "2026-10-27T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.003000653.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9072",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291319200",
+      "PublishDate": "2026-10-27T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261027.003000447.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11482",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291303226",
+      "PublishDate": "2026-10-26T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.233000718.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9142",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291303224",
+      "PublishDate": "2026-10-26T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.233000638.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11549",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291287076",
+      "PublishDate": "2026-10-26T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.223000544.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9175",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291287072",
+      "PublishDate": "2026-10-26T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.223000464.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11549",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291269794",
+      "PublishDate": "2026-10-26T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.213000750.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9130",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291269790",
+      "PublishDate": "2026-10-26T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.213000393.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11541",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291253208",
+      "PublishDate": "2026-10-26T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.203000468.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9121",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291253207",
+      "PublishDate": "2026-10-26T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.203000396.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11487",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291234584",
+      "PublishDate": "2026-10-26T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.193000493.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9117",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291234582",
+      "PublishDate": "2026-10-26T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.193000435.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11511",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291218281",
+      "PublishDate": "2026-10-26T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.183000729.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9178",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291217911",
+      "PublishDate": "2026-10-26T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.183000678.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11552",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291203208",
+      "PublishDate": "2026-10-26T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.173000563.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9166",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291203205",
+      "PublishDate": "2026-10-26T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.173000462.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11584",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291186072",
+      "PublishDate": "2026-10-26T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.163000542.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9141",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291186069",
+      "PublishDate": "2026-10-26T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.163000478.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11494",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291170103",
+      "PublishDate": "2026-10-26T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.153000552.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9130",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291170099",
+      "PublishDate": "2026-10-26T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.153000468.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11478",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291154930",
+      "PublishDate": "2026-10-26T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.143000502.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9151",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291154761",
+      "PublishDate": "2026-10-26T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.143000428.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11514",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291137566",
+      "PublishDate": "2026-10-26T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.133000599.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9134",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291137562",
+      "PublishDate": "2026-10-26T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.133000471.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11515",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291119207",
+      "PublishDate": "2026-10-26T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.123000500.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9157",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291119204",
+      "PublishDate": "2026-10-26T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.123000460.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11547",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291096074",
+      "PublishDate": "2026-10-26T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.113000509.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9154",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291096071",
+      "PublishDate": "2026-10-26T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.113000445.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11545",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291081095",
+      "PublishDate": "2026-10-26T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.103000568.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9172",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291081092",
+      "PublishDate": "2026-10-26T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.103000485.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11539",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291064352",
+      "PublishDate": "2026-10-26T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.093000461.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9118",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291064348",
+      "PublishDate": "2026-10-26T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.093000400.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11513",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291043982",
+      "PublishDate": "2026-10-26T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.083000581.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9133",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291043978",
+      "PublishDate": "2026-10-26T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.083000445.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "11509",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291025598",
+      "PublishDate": "2026-10-26T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.073000523.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10024",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291025595",
+      "PublishDate": "2026-10-26T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.073000457.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12676",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291010620",
+      "PublishDate": "2026-10-26T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.063000661.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10000",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1291010613",
+      "PublishDate": "2026-10-26T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.063000515.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12652",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290990572",
+      "PublishDate": "2026-10-26T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.053000621.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10012",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290990568",
+      "PublishDate": "2026-10-26T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.053000471.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12662",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290972282",
+      "PublishDate": "2026-10-26T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.043000509.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10017",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290972319",
+      "PublishDate": "2026-10-26T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.043000438.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12660",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290957473",
+      "PublishDate": "2026-10-26T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.033000853.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10045",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290957472",
+      "PublishDate": "2026-10-26T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.033000685.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12665",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290942499",
+      "PublishDate": "2026-10-26T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.023000915.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10026",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290942496",
+      "PublishDate": "2026-10-26T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.023000781.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12608",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290927807",
+      "PublishDate": "2026-10-26T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.013000635.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10027",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290927797",
+      "PublishDate": "2026-10-26T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.013000442.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12654",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290911725",
+      "PublishDate": "2026-10-26T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.003000660.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10016",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290911942",
+      "PublishDate": "2026-10-26T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261026.003000521.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12654",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290897002",
+      "PublishDate": "2026-10-25T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.233000537.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10035",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290896998",
+      "PublishDate": "2026-10-25T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.233000477.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12655",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290882160",
+      "PublishDate": "2026-10-25T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.223000898.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10013",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290882157",
+      "PublishDate": "2026-10-25T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.223000805.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12616",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290859376",
+      "PublishDate": "2026-10-25T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.213000585.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10007",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290866190",
+      "PublishDate": "2026-10-25T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.213000489.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12608",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290851552",
+      "PublishDate": "2026-10-25T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.203000532.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9987",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290851547",
+      "PublishDate": "2026-10-25T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.203000452.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12643",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290836491",
+      "PublishDate": "2026-10-25T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.193000503.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10023",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290836489",
+      "PublishDate": "2026-10-25T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.193000449.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12605",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290821146",
+      "PublishDate": "2026-10-25T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.183001027.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10036",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290821145",
+      "PublishDate": "2026-10-25T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.183000960.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12585",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290806333",
+      "PublishDate": "2026-10-25T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.173000510.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10008",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290806080",
+      "PublishDate": "2026-10-25T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.173000434.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12629",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290791426",
+      "PublishDate": "2026-10-25T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.163000548.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10016",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290791424",
+      "PublishDate": "2026-10-25T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.163000461.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12615",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290776368",
+      "PublishDate": "2026-10-25T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.153000565.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10033",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290776559",
+      "PublishDate": "2026-10-25T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.153000498.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12668",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290761543",
+      "PublishDate": "2026-10-25T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.143000803.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10028",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290761541",
+      "PublishDate": "2026-10-25T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.143000671.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12620",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290744353",
+      "PublishDate": "2026-10-25T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.133000690.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10034",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290744349",
+      "PublishDate": "2026-10-25T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.133000571.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12641",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290728286",
+      "PublishDate": "2026-10-25T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.123000533.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10011",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290728281",
+      "PublishDate": "2026-10-25T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.123000431.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12633",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290713347",
+      "PublishDate": "2026-10-25T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.113000547.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9997",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290713345",
+      "PublishDate": "2026-10-25T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.113000499.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12585",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290698202",
+      "PublishDate": "2026-10-25T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.103000647.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10011",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290698562",
+      "PublishDate": "2026-10-25T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.103000584.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12647",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290681509",
+      "PublishDate": "2026-10-25T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.093000565.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10013",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290681373",
+      "PublishDate": "2026-10-25T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.093000453.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12641",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290661890",
+      "PublishDate": "2026-10-25T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.083000722.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10018",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290661885",
+      "PublishDate": "2026-10-25T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.083000572.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12653",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290642979",
+      "PublishDate": "2026-10-25T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.073000536.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10016",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290642978",
+      "PublishDate": "2026-10-25T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.073000491.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12577",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290628008",
+      "PublishDate": "2026-10-25T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.063000819.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10008",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290628007",
+      "PublishDate": "2026-10-25T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.063000771.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12620",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290608440",
+      "PublishDate": "2026-10-25T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.053000682.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10012",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290608129",
+      "PublishDate": "2026-10-25T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.053000581.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12610",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290590185",
+      "PublishDate": "2026-10-25T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.043000681.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10055",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290590183",
+      "PublishDate": "2026-10-25T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.043000510.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12655",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290575409",
+      "PublishDate": "2026-10-25T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.033000589.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10040",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290575407",
+      "PublishDate": "2026-10-25T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.033000454.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12584",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290560791",
+      "PublishDate": "2026-10-25T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.023000726.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10019",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290560612",
+      "PublishDate": "2026-10-25T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.023000636.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12655",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290546036",
+      "PublishDate": "2026-10-25T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.013000662.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10000",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290545743",
+      "PublishDate": "2026-10-25T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.013000584.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12558",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290530045",
+      "PublishDate": "2026-10-25T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.003000690.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10073",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290531067",
+      "PublishDate": "2026-10-25T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261025.003000531.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12670",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290515558",
+      "PublishDate": "2026-10-24T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.233000584.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9985",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290515553",
+      "PublishDate": "2026-10-24T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.233000468.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12616",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290500408",
+      "PublishDate": "2026-10-24T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.223000720.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9983",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290500616",
+      "PublishDate": "2026-10-24T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.223000591.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12597",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290484311",
+      "PublishDate": "2026-10-24T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.213000528.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9928",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290484258",
+      "PublishDate": "2026-10-24T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.213000435.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12558",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290469441",
+      "PublishDate": "2026-10-24T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.203000484.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9976",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290469437",
+      "PublishDate": "2026-10-24T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.203000409.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12574",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290454295",
+      "PublishDate": "2026-10-24T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.193000924.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9980",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290454032",
+      "PublishDate": "2026-10-24T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.193000816.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12597",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290438570",
+      "PublishDate": "2026-10-24T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.183000927.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9965",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290438567",
+      "PublishDate": "2026-10-24T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.183000800.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12614",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290423798",
+      "PublishDate": "2026-10-24T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.173000623.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10027",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290423793",
+      "PublishDate": "2026-10-24T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.173000479.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12622",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290408759",
+      "PublishDate": "2026-10-24T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.163000710.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10010",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290408758",
+      "PublishDate": "2026-10-24T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.163000625.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12630",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290393655",
+      "PublishDate": "2026-10-24T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.153000544.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9963",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290393653",
+      "PublishDate": "2026-10-24T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.153000494.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12552",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290378601",
+      "PublishDate": "2026-10-24T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.143000792.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10002",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290378599",
+      "PublishDate": "2026-10-24T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.143000697.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12613",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290361223",
+      "PublishDate": "2026-10-24T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.133000614.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9974",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290361216",
+      "PublishDate": "2026-10-24T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.133000482.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12600",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290344663",
+      "PublishDate": "2026-10-24T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.123000550.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9981",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290345344",
+      "PublishDate": "2026-10-24T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.123000475.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12555",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290329758",
+      "PublishDate": "2026-10-24T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.113000739.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9988",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290330720",
+      "PublishDate": "2026-10-24T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.113000460.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12634",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290315851",
+      "PublishDate": "2026-10-24T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.103001096.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9975",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290315850",
+      "PublishDate": "2026-10-24T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.103000996.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12571",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290298567",
+      "PublishDate": "2026-10-24T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.093000658.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9963",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290298563",
+      "PublishDate": "2026-10-24T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.093000552.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12548",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290277719",
+      "PublishDate": "2026-10-24T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.083000597.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9976",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290277920",
+      "PublishDate": "2026-10-24T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.083000493.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12622",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290260748",
+      "PublishDate": "2026-10-24T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.073000500.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9983",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290260745",
+      "PublishDate": "2026-10-24T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.073000438.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12556",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290245646",
+      "PublishDate": "2026-10-24T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.063000814.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9975",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290245644",
+      "PublishDate": "2026-10-24T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.063000755.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12587",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290225880",
+      "PublishDate": "2026-10-24T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.053000831.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9986",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290225929",
+      "PublishDate": "2026-10-24T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.053000733.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12555",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290207674",
+      "PublishDate": "2026-10-24T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.043000557.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9978",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290207669",
+      "PublishDate": "2026-10-24T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.043000479.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12570",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290193043",
+      "PublishDate": "2026-10-24T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.033000553.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10014",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290193039",
+      "PublishDate": "2026-10-24T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.033000431.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12635",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290177966",
+      "PublishDate": "2026-10-24T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.023000570.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9963",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290178081",
+      "PublishDate": "2026-10-24T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.023000454.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12542",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290163427",
+      "PublishDate": "2026-10-24T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.013000552.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9981",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290163228",
+      "PublishDate": "2026-10-24T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.013000496.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12584",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290147751",
+      "PublishDate": "2026-10-24T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.003000879.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10008",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290147750",
+      "PublishDate": "2026-10-24T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261024.003000830.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12579",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290133152",
+      "PublishDate": "2026-10-23T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.233000665.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9968",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290133149",
+      "PublishDate": "2026-10-23T23:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.233000560.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12553",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290118309",
+      "PublishDate": "2026-10-23T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.223000583.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9970",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290118305",
+      "PublishDate": "2026-10-23T22:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.223000482.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12518",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290102393",
+      "PublishDate": "2026-10-23T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.213000606.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9962",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290102391",
+      "PublishDate": "2026-10-23T21:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.213000536.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12567",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290087513",
+      "PublishDate": "2026-10-23T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.203000823.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9931",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290087510",
+      "PublishDate": "2026-10-23T20:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.203000446.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12565",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290071641",
+      "PublishDate": "2026-10-23T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.193000517.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9977",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290071637",
+      "PublishDate": "2026-10-23T19:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.193000420.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12588",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290053413",
+      "PublishDate": "2026-10-23T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.183000557.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9980",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290053407",
+      "PublishDate": "2026-10-23T18:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.183000452.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12526",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290038461",
+      "PublishDate": "2026-10-23T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.173000578.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9990",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290038457",
+      "PublishDate": "2026-10-23T17:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.173000496.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12592",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290022580",
+      "PublishDate": "2026-10-23T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.163000574.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10003",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290022576",
+      "PublishDate": "2026-10-23T16:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.163000484.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12534",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290007692",
+      "PublishDate": "2026-10-23T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.153000530.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9955",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1290007687",
+      "PublishDate": "2026-10-23T15:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.153000447.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12563",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289990785",
+      "PublishDate": "2026-10-23T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.143000528.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9965",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289990641",
+      "PublishDate": "2026-10-23T14:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.143000445.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12537",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289970504",
+      "PublishDate": "2026-10-23T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.133000534.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9964",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289970500",
+      "PublishDate": "2026-10-23T13:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.133000430.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12541",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289954199",
+      "PublishDate": "2026-10-23T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.123000589.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9995",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289954432",
+      "PublishDate": "2026-10-23T12:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.123000513.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12645",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289939704",
+      "PublishDate": "2026-10-23T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.113000537.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9986",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289939703",
+      "PublishDate": "2026-10-23T11:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.113000436.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12587",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289924843",
+      "PublishDate": "2026-10-23T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.103000710.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9947",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289921597",
+      "PublishDate": "2026-10-23T10:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.103000542.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12542",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289907816",
+      "PublishDate": "2026-10-23T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.093000524.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9983",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289907812",
+      "PublishDate": "2026-10-23T09:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.093000470.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12566",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289887998",
+      "PublishDate": "2026-10-23T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.083000541.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9938",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289887993",
+      "PublishDate": "2026-10-23T08:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.083000445.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12573",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289869043",
+      "PublishDate": "2026-10-23T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.073000520.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10000",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289868797",
+      "PublishDate": "2026-10-23T07:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.073000464.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12589",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289853334",
+      "PublishDate": "2026-10-23T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.063000483.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9986",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289853590",
+      "PublishDate": "2026-10-23T06:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.063000437.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12577",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289833818",
+      "PublishDate": "2026-10-23T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.053000995.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9984",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289833812",
+      "PublishDate": "2026-10-23T05:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.053000876.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12547",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289815344",
+      "PublishDate": "2026-10-23T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.043000728.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9986",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289815342",
+      "PublishDate": "2026-10-23T04:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.043000632.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12603",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289800646",
+      "PublishDate": "2026-10-23T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.033000573.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "10037",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289800645",
+      "PublishDate": "2026-10-23T03:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.033000522.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12618",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289785602",
+      "PublishDate": "2026-10-23T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.023000617.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9942",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289785598",
+      "PublishDate": "2026-10-23T02:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.023000484.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12535",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289770781",
+      "PublishDate": "2026-10-23T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.013000851.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9953",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289770562",
+      "PublishDate": "2026-10-23T01:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.013000755.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12555",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289754976",
+      "PublishDate": "2026-10-23T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_csv",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.003000645.LFCWEATHERNP3561_csv.zip",
+      "ContentSize": "9967",
+      "SecurityStatus": "P"
+    },
+    {
+      "DocID": "1289754973",
+      "PublishDate": "2026-10-23T00:30:00-05:00",
+      "ReportTypeID": "12312",
+      "FriendlyName": "LFCWEATHERNP3561_xml",
+      "ConstructedName": "cdr.00012312.0000000000000000.20261023.003000535.LFCWEATHERNP3561_xml.zip",
+      "ContentSize": "12565",
+      "SecurityStatus": "P"
+    }
+  ]
+}

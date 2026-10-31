@@ -1,0 +1,9 @@
+{
+  "status": "PASS_RETAINED_ORIGINAL_BYTES",
+  "timestamp_utc": "2026-10-31T00:45:24.013492+00:00",
+  "conditions": 260,
+  "archives": 32,
+  "bytes": 246224,
+  "scope": "Independent retained ZIP, exact payload, metadata projection and document identity checks; not independent historical immutability or first-delivery proof",
+  "verifier_sha256": "cad60d0ecf5ecb27aade38b472a63b46e2aa224e03f93416f0c8d8749fbb5665"
+}
