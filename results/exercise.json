@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "cases": 3,
+  "conditions": 6,
+  "real_archive_selection": {
+    "status": "SELECTED",
+    "doc_id": "1290329758",
+    "published": "2026-10-24T11:30:00-05:00",
+    "deadline": "2026-10-24T12:00:00-05:00",
+    "age_seconds": 1800
+  },
+  "authored_late_only": {
+    "status": "UNAVAILABLE",
+    "reason": "no document before deadline"
+  },
+  "authored_stale": {
+    "status": "UNAVAILABLE",
+    "reason": "latest eligible document is stale"
+  },
+  "scope": "Local deterministic exercises; no production user or operational decision"
+}
