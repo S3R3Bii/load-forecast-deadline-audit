@@ -1,0 +1,18 @@
+{
+  "status": "PASS_COMPILE_AND_FIVE_PAGE_VISUAL_REVIEW",
+  "timestamp_utc": "2026-10-31T00:53:17.944708+00:00",
+  "compiler": "Tectonic",
+  "render_tool": "Poppler pdftoppm",
+  "render_dpi": 95,
+  "pages": 5,
+  "rendered_page_sha256": {
+    "1": "04c619752287809e8f1c9439387f29b2837f878ca07c01d5c67d89a089588c01",
+    "2": "89879a42dab2b8051e44f913e2e095eb3a0be9fce83a003caf34c8f78fc814ec",
+    "3": "0591def6ab1c35642f018370ff92b6bbe8bbcd6722825db52dd3f7bbf3951f3d",
+    "4": "0638309f55b93b2ccde8e4e23e2c485fe323e559361923af276e9b5ddf1b9020",
+    "5": "f709de18014ca51a0492f7bee84ec3963ab50f6f1a674c36a7fb1c86ea9437ee"
+  },
+  "private_log_sha256": "36d7e35d5ee206be83fe57d59cf6d6a3646d12a5da16076ac3ce985f8c5cbf57",
+  "manuscript_sha256": "638b6db9a8d0a23975ac7656005769ad60d5cebb00d8a074615c0a4a5be8f0aa",
+  "observations": "All five current pages individually inspected or pixel-identical to inspected renders; no layout warnings. Two corrected paper pages freshly inspected. First paper and first figures retained privately."
+}

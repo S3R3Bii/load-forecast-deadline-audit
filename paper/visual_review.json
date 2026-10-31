@@ -1,0 +1,8 @@
+{
+  "timestamp_utc": "2026-10-31T00:52:42.216318+00:00",
+  "manuscript_sha256": "638b6db9a8d0a23975ac7656005769ad60d5cebb00d8a074615c0a4a5be8f0aa",
+  "pages": 5,
+  "status": "PASS_CURRENT_RENDER",
+  "checks": "All five pages individually inspected at95dpi. Final pages1–3 pixel-identical to inspected version; corrected pages4–5 freshly inspected. No clipping, overflow, missing glyphs or overlapping labels observed. Three current figure PNGs inspected; daily legend spacing corrected and freshly checked. SVG normalization preserves current PNG pixels. Layout observation is not an accessibility-conformance claim.",
+  "prior_failed_versions_preserved": true
+}
