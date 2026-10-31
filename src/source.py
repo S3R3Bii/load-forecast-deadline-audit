@@ -12,6 +12,26 @@ ACTUAL_NAMES = dict(Coast="COAST", East="EAST", FarWest="FAR_WEST", North="NORTH
 OFFSET = timezone(timedelta(hours=-5))
 
 
+def target_rows(rows, date_field, day):
+    selected = [r for r in rows if datetime.strptime(r[date_field], "%m/%d/%Y").date().isoformat() == day]
+    assert len(selected) == 24, "incomplete target day"
+    hours = set()
+    for row in selected:
+        hour, minute = row["HourEnding"].split(":")
+        hour = int(hour)
+        assert minute == "00" and 1 <= hour <= 24 and row["DSTFlag"] == "N", "unsupported hour or DST flag"
+        assert hour not in hours, "duplicate target hour"
+        hours.add(hour)
+    assert hours == set(range(1, 25))
+    return selected
+
+
+def native_load(value):
+    number = Decimal(value)
+    assert number.is_finite() and number >= 0, "invalid source load"
+    return number
+
+
 def project():
     plan = json.loads((ROOT / "data/source_plan.json").read_bytes())
     selections = json.loads((ROOT / "data/selection.json").read_bytes())
@@ -21,8 +41,7 @@ def project():
         doc = docs[selection["csv_id"]]
         source_rows = list(csv.DictReader(io.StringIO(gzip.decompress((ROOT / doc["path"]).read_bytes()).decode("utf-8-sig"))))
         native_date = "DeliveryDate" if doc["kind"] == "forecast" else "OperDay"
-        target = [r for r in source_rows if datetime.strptime(r[native_date], "%m/%d/%Y").date().isoformat() == selection["day"]]
-        assert len(target) == 24, selection
+        target = target_rows(source_rows, native_date, selection["day"])
         hours = set()
         for row in target:
             hour, minute = row["HourEnding"].split(":")
@@ -33,7 +52,7 @@ def project():
             start = datetime.fromisoformat(selection["day"]).replace(tzinfo=OFFSET) + timedelta(hours=hour - 1)
             for zone in plan["zones"]:
                 value = row[zone if doc["kind"] == "forecast" else ACTUAL_NAMES[zone]]
-                assert Decimal(value).is_finite() and Decimal(value) >= 0
+                native_load(value)
                 output.append(dict(kind=doc["kind"], day=selection["day"], policy=selection.get("policy", "reference"), hour_ending=hour, dst_flag=row["DSTFlag"], zone=zone, load_mw=value, doc_id=doc["DocID"], published=doc["PublishDate"], interval_start=start.isoformat(), interval_end=(start + timedelta(hours=1)).isoformat()))
         assert hours == set(range(1, 25))
     return sorted(output, key=lambda r: (r["day"], r["kind"], r["policy"], r["hour_ending"], r["zone"]))
