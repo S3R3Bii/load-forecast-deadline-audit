@@ -1,0 +1,42 @@
+{
+  "study": "02",
+  "version": "ercot-deadline-audit-v1",
+  "days": [
+    "2026-10-25",
+    "2026-10-26",
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29"
+  ],
+  "zones": [
+    "Coast",
+    "East",
+    "FarWest",
+    "North",
+    "NorthCentral",
+    "SouthCentral",
+    "Southern",
+    "West",
+    "SystemTotal"
+  ],
+  "policies": [
+    "day_ahead",
+    "same_day_noon",
+    "end_of_day"
+  ],
+  "max_age_minutes": 90,
+  "source_offset": "-05:00",
+  "source_dst_flag": "N",
+  "expected_comparisons": 3240,
+  "expected_overall_metrics": 27,
+  "expected_daily_metrics": 135,
+  "expected_peaks": 135,
+  "precision": 60,
+  "independent_precision": 80,
+  "derived_absolute_tolerance": "1e-45",
+  "schema_preflight_forecast_publication": "2026-10-30T19:30:00-05:00",
+  "schema_preflight_actual_operating_day": "2026-09-30",
+  "source_listing_retrieved_utc": "2026-10-31T00:40:39.719218+00:00",
+  "outcomes_retrieved": false,
+  "no_model_or_tuning": true
+}

@@ -1,0 +1,7 @@
+# Source and redistribution boundary
+
+Sources: ERCOT [forecast product NP3-561-CD](https://www.ercot.com/mp/data-products/data-product-details?id=NP3-561-CD), [actual-load product NP6-345-CD](https://www.ercot.com/mp/data-products/data-product-details?id=NP6-345-CD), and [Terms of Use](https://www.ercot.com/help/terms), inspected30 October2026. The products are public. Paragraph5 of the terms permits raw public data in compilations, charts and analyses. Code uses MIT; ERCOT raw factual data remain attributed to their source and are provided without an accuracy warranty or endorsement. No ERCOT logos, artwork, third-party manuscripts, credentials, personal records or formal-publication drafts belong here.
+
+Raw ZIP archives and captured web pages remain private. Reviewed public source material will consist of exact native data payloads, required report metadata and cryptographic hashes, accompanied by source links and derived analysis. The source's declared publication time is retained, not replaced with its delivery date, local filename time or retrieval time. It is not independent proof of historical immutability, first-byte delivery or a particular analyst's access.
+
+The Data Access Portal has a documented posting lag and API registration; it is not used. Ordinary public report-list and page-linked download endpoints require no new account. No access restriction is bypassed. Backcasts using actual weather are not used as historical forecasts. The source window limits this to a five-day audit, not the original seasonal residual-model proposal.
