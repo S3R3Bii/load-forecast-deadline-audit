@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "runtime": "3.12.14",
+  "mode": "analysis-only",
+  "exact_output_files": 6,
+  "source_files_unchanged": 40,
+  "no_network_source_requests": true,
+  "native_conditions": 101139,
+  "analysis_conditions": 48524,
+  "fixture_methods": 22,
+  "exercise_cases": 3,
+  "scope": "Saved-data source/numerical/guard replay; private ZIP reacquisition and historical delivery not reproduced"
+}

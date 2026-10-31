@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "conditions": 597,
+  "source_bound_bars": 45,
+  "svg_vertex_coordinates": 360,
+  "numeric_labels": 45,
+  "asset_hashes": 9,
+  "scope": "All source bindings, actual SVG rectangle geometry and numeric label placement; PNG/PDF appearance reviewed separately"
+}
