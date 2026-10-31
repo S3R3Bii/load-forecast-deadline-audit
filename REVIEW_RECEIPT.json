@@ -1,0 +1,48 @@
+{
+  "timestamp_utc": "2026-10-31T00:53:49.607485+00:00",
+  "status": "LOCAL_ACCEPTANCE_PASS_RELEASE_PENDING",
+  "local_grade": 4,
+  "revision_scope": "Fixed five-day deadline audit; original EIA proposal unexecuted",
+  "criteria": {
+    "source_rights": "PASS:public ERCOT data, explicit terms,32 paired documents; original archives private",
+    "source_and_timing": "PASS:101139 native/source conditions and260 retained-archive conditions",
+    "scientific_arithmetic": "PASS:all3240 comparisons/162 metric rows/135 peaks;48524 independent conditions;all planned cases retained",
+    "implementation": "PASS:22 authored fixture methods,3 exercises/6 conditions",
+    "replay": "PASS:CPython3.10.11 and3.12.14,6 exact files,40 source files unchanged each",
+    "figures": "PASS:597 conditions,45 values,360 SVG coordinates,45 labels,9 hashes;current PNGs inspected",
+    "manuscript": "PASS:43 source-bound numbers,239 paper conditions,5 current inspected pages,five scoped files",
+    "privacy": "PASS:96-file staged bounded scan and95 canonical Git blob hashes at914217bd638b989a284220604ad8ef169b0ce259;fresh scan accompanies this checkpoint",
+    "candidate_and_main_ci": "UNKNOWN:pending exact candidate and main checks",
+    "release_tag_and_metadata": "UNKNOWN:pending"
+  },
+  "sha256": {
+    "paper/main.tex": "1199c4cd80986d2d134bc605313b0497f6a08694126e7da9903ca9013f6c5433",
+    "paper/manuscript.pdf": "638b6db9a8d0a23975ac7656005769ad60d5cebb00d8a074615c0a4a5be8f0aa",
+    "paper/images/system_cutoffs.pdf": "e035b2fd925a537a4d21dbedeeb12660cdfbbdc9a11f4abc5a9966ae77bf6477",
+    "paper/images/daily_system_errors.pdf": "0a3b4b8ebd7175a5261f5370d3e46a2760593f714ab8e68600754aa03fb6bb25",
+    "paper/images/all_series_wape.pdf": "8ea1574ad9b7a417718b42e49631610bcb288b2d2538b10bcda761a50b8a7e92"
+  },
+  "budget": {
+    "source_hold_context_preserved": true,
+    "review_rounds_including_source_context": 3,
+    "substantive_round_limit": 3,
+    "active_review_minute_limit": 45,
+    "review_tool_call_limit": 60,
+    "exact_active_time_and_review_calls": "not instrumented; elapsed wall time includes coding and execution; no quota estimate"
+  },
+  "usage": {
+    "observed_utc": "2026-10-31T00:52:04Z",
+    "source": "Codex get_usage_limits",
+    "bucket": "codex",
+    "window_minutes": 10080,
+    "used_percent": 58,
+    "remaining_percent": 42,
+    "resets_at_unix": 1793910839,
+    "secondary": "unavailable",
+    "shared_account_not_task_consumption": true
+  },
+  "limitations": "Five dependent autumn days; declared archive publication metadata do not prove immutable original delivery. No learned correction,season/authority transfer,reserve saving,production deployment or scientific-priority claim.",
+  "changes": "Fixed source plan before target outcomes; complete retrospective cases; independent native/numeric checks; local guard; isolated replays; SVG whitespace and daily legend corrected; two paper prose/command corrections freshly checked.",
+  "stop_reason": "Local scoped acceptance passes; exact candidate/main Linux checks, matching tree, annotated tag and metadata remain required before release completion.",
+  "grade": 4
+}

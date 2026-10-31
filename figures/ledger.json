@@ -1,0 +1,552 @@
+{
+  "bars": [
+    {
+      "id": "overall_0",
+      "value": 857.6376083333333,
+      "orientation": "v",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "SystemTotal",
+        "policy": "day_ahead",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "overall_1",
+      "value": 619.343045,
+      "orientation": "v",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "SystemTotal",
+        "policy": "same_day_noon",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "overall_2",
+      "value": 337.9603716666667,
+      "orientation": "v",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "SystemTotal",
+        "policy": "end_of_day",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_0_0",
+      "value": 591.2505291666666,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-25",
+        "zone": "SystemTotal",
+        "policy": "day_ahead",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_0_1",
+      "value": 668.5912458333333,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-25",
+        "zone": "SystemTotal",
+        "policy": "same_day_noon",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_0_2",
+      "value": 559.3767125,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-25",
+        "zone": "SystemTotal",
+        "policy": "end_of_day",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_1_0",
+      "value": 1371.5730541666667,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-26",
+        "zone": "SystemTotal",
+        "policy": "day_ahead",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_1_1",
+      "value": 846.113,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-26",
+        "zone": "SystemTotal",
+        "policy": "same_day_noon",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_1_2",
+      "value": 397.5855208333333,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-26",
+        "zone": "SystemTotal",
+        "policy": "end_of_day",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_2_0",
+      "value": 945.3091291666667,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-27",
+        "zone": "SystemTotal",
+        "policy": "day_ahead",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_2_1",
+      "value": 623.04265,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-27",
+        "zone": "SystemTotal",
+        "policy": "same_day_noon",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_2_2",
+      "value": 196.81995416666666,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-27",
+        "zone": "SystemTotal",
+        "policy": "end_of_day",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_3_0",
+      "value": 731.6997875,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-28",
+        "zone": "SystemTotal",
+        "policy": "day_ahead",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_3_1",
+      "value": 406.7983208333333,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-28",
+        "zone": "SystemTotal",
+        "policy": "same_day_noon",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_3_2",
+      "value": 277.3104375,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-28",
+        "zone": "SystemTotal",
+        "policy": "end_of_day",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_4_0",
+      "value": 648.3555416666667,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-29",
+        "zone": "SystemTotal",
+        "policy": "day_ahead",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_4_1",
+      "value": 552.1700083333334,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-29",
+        "zone": "SystemTotal",
+        "policy": "same_day_noon",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "daily_4_2",
+      "value": 258.7092333333333,
+      "orientation": "h",
+      "source": {
+        "file": "daily_metrics.csv",
+        "day": "2026-10-29",
+        "zone": "SystemTotal",
+        "policy": "end_of_day",
+        "field": "mae_mw"
+      }
+    },
+    {
+      "id": "zone_0_0",
+      "value": 3.379334299382044,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "Coast",
+        "policy": "day_ahead",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_0_1",
+      "value": 1.7228106647632504,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "Coast",
+        "policy": "same_day_noon",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_0_2",
+      "value": 0.7069854554138792,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "Coast",
+        "policy": "end_of_day",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_1_0",
+      "value": 3.990556107163543,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "East",
+        "policy": "day_ahead",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_1_1",
+      "value": 2.2724864786557166,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "East",
+        "policy": "same_day_noon",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_1_2",
+      "value": 2.4625775054302705,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "East",
+        "policy": "end_of_day",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_2_0",
+      "value": 3.7542282351701637,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "FarWest",
+        "policy": "day_ahead",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_2_1",
+      "value": 2.118931330657879,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "FarWest",
+        "policy": "same_day_noon",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_2_2",
+      "value": 1.2398197815353975,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "FarWest",
+        "policy": "end_of_day",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_3_0",
+      "value": 7.588284695197185,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "North",
+        "policy": "day_ahead",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_3_1",
+      "value": 3.2875811924809697,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "North",
+        "policy": "same_day_noon",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_3_2",
+      "value": 2.636951905678336,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "North",
+        "policy": "end_of_day",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_4_0",
+      "value": 2.498403166237137,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "NorthCentral",
+        "policy": "day_ahead",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_4_1",
+      "value": 1.7944194060536907,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "NorthCentral",
+        "policy": "same_day_noon",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_4_2",
+      "value": 0.8625774129558044,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "NorthCentral",
+        "policy": "end_of_day",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_5_0",
+      "value": 2.4213281380274605,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "SouthCentral",
+        "policy": "day_ahead",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_5_1",
+      "value": 1.5201537947625359,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "SouthCentral",
+        "policy": "same_day_noon",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_5_2",
+      "value": 0.8728013193560652,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "SouthCentral",
+        "policy": "end_of_day",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_6_0",
+      "value": 2.4868884314232953,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "Southern",
+        "policy": "day_ahead",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_6_1",
+      "value": 1.6398753636981747,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "Southern",
+        "policy": "same_day_noon",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_6_2",
+      "value": 1.3292725093518083,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "Southern",
+        "policy": "end_of_day",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_7_0",
+      "value": 3.8535002147173056,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "West",
+        "policy": "day_ahead",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_7_1",
+      "value": 2.2231344226296734,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "West",
+        "policy": "same_day_noon",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_7_2",
+      "value": 1.84288939093002,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "West",
+        "policy": "end_of_day",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_8_0",
+      "value": 1.6145495718747807,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "SystemTotal",
+        "policy": "day_ahead",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_8_1",
+      "value": 1.1659470601943613,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "SystemTotal",
+        "policy": "same_day_noon",
+        "field": "wape",
+        "scale": 100
+      }
+    },
+    {
+      "id": "zone_8_2",
+      "value": 0.6362288314821453,
+      "orientation": "h",
+      "source": {
+        "file": "overall_metrics.csv",
+        "zone": "SystemTotal",
+        "policy": "end_of_day",
+        "field": "wape",
+        "scale": 100
+      }
+    }
+  ],
+  "assets_sha256": {
+    "figures/all_series_wape.pdf": "8ea1574ad9b7a417718b42e49631610bcb288b2d2538b10bcda761a50b8a7e92",
+    "figures/all_series_wape.png": "5bfa5fecceb7e1644d5ef183f2f33f0b3ade5b0c8fc1229dd190e916e845b67b",
+    "figures/all_series_wape.svg": "75c5907dca9d07548d20bd43bea336bd8c4ed025a28147b596ed8a0ec275831d",
+    "figures/daily_system_errors.pdf": "0a3b4b8ebd7175a5261f5370d3e46a2760593f714ab8e68600754aa03fb6bb25",
+    "figures/daily_system_errors.png": "1763aaa02a87132fef6788e7ac98552ab24596f6676a766bd2134624ae4ae0b5",
+    "figures/daily_system_errors.svg": "ded7149315c494cfa4b6a80440051e4c473de917c4b1aa848e6751df79844c99",
+    "figures/system_cutoffs.pdf": "e035b2fd925a537a4d21dbedeeb12660cdfbbdc9a11f4abc5a9966ae77bf6477",
+    "figures/system_cutoffs.png": "bc16cf2a8523f28446e4e2812927a2d128408dec7a00098adca55377b5769bc2",
+    "figures/system_cutoffs.svg": "544f7998e9d021308526bb5f3c916d72fb02995dea2fce3873e2aedeb9d89b34"
+  }
+}

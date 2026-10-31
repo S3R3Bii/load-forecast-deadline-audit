@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 .replay/
 .source/
+paper/main.pdf
+paper/main.log
+paper/main.aux

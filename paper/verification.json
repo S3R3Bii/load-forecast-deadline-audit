@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "conditions": 239,
+  "used_numeric_bindings": 43,
+  "pages": 5,
+  "scope_files": 5,
+  "scope": "Used TeX macros, PDF numeric text, source-bound qualifications, finite replay facts, scoped bytes and visual-review hash; visual inspection is separately recorded"
+}

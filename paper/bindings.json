@@ -1,0 +1,536 @@
+[
+  {
+    "name": "AheadMae",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "mae_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "857.6"
+  },
+  {
+    "name": "AheadRmse",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "rmse_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "1028.4"
+  },
+  {
+    "name": "AheadMse",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "mse_mw2",
+    "digits": 1,
+    "scale": 1,
+    "display": "1057583.7"
+  },
+  {
+    "name": "AheadBias",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "mean_error_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "320.0"
+  },
+  {
+    "name": "AheadWape",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "wape",
+    "digits": 1,
+    "scale": 100,
+    "display": "1.6"
+  },
+  {
+    "name": "AheadUnder",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "max_under_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "1494.8"
+  },
+  {
+    "name": "NoonMae",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "same_day_noon"
+    },
+    "field": "mae_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "619.3"
+  },
+  {
+    "name": "NoonRmse",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "same_day_noon"
+    },
+    "field": "rmse_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "821.8"
+  },
+  {
+    "name": "NoonMse",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "same_day_noon"
+    },
+    "field": "mse_mw2",
+    "digits": 1,
+    "scale": 1,
+    "display": "675401.2"
+  },
+  {
+    "name": "NoonBias",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "same_day_noon"
+    },
+    "field": "mean_error_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "126.8"
+  },
+  {
+    "name": "NoonWape",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "same_day_noon"
+    },
+    "field": "wape",
+    "digits": 1,
+    "scale": 100,
+    "display": "1.2"
+  },
+  {
+    "name": "NoonUnder",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "same_day_noon"
+    },
+    "field": "max_under_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "1329.3"
+  },
+  {
+    "name": "EndMae",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "end_of_day"
+    },
+    "field": "mae_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "338.0"
+  },
+  {
+    "name": "EndRmse",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "end_of_day"
+    },
+    "field": "rmse_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "443.6"
+  },
+  {
+    "name": "EndMse",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "end_of_day"
+    },
+    "field": "mse_mw2",
+    "digits": 1,
+    "scale": 1,
+    "display": "196821.8"
+  },
+  {
+    "name": "EndBias",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "end_of_day"
+    },
+    "field": "mean_error_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "156.2"
+  },
+  {
+    "name": "EndWape",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "end_of_day"
+    },
+    "field": "wape",
+    "digits": 1,
+    "scale": 100,
+    "display": "0.6"
+  },
+  {
+    "name": "EndUnder",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "SystemTotal",
+      "policy": "end_of_day"
+    },
+    "field": "max_under_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "1323.4"
+  },
+  {
+    "name": "FirstAhead",
+    "kind": "csv",
+    "file": "results/daily_metrics.csv",
+    "query": {
+      "day": "2026-10-25",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "mae_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "591.3"
+  },
+  {
+    "name": "FirstNoon",
+    "kind": "csv",
+    "file": "results/daily_metrics.csv",
+    "query": {
+      "day": "2026-10-25",
+      "zone": "SystemTotal",
+      "policy": "same_day_noon"
+    },
+    "field": "mae_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "668.6"
+  },
+  {
+    "name": "FirstForecast",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-25",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "forecast_peak_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "60082.7"
+  },
+  {
+    "name": "FirstActual",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-25",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "actual_peak_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "58287.8"
+  },
+  {
+    "name": "FirstError",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-25",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "peak_error_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "1794.9"
+  },
+  {
+    "name": "SecondForecast",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-26",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "forecast_peak_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "62009.4"
+  },
+  {
+    "name": "SecondActual",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-26",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "actual_peak_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "60005.8"
+  },
+  {
+    "name": "SecondError",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-26",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "peak_error_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "2003.6"
+  },
+  {
+    "name": "ThirdForecast",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-27",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "forecast_peak_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "60442.6"
+  },
+  {
+    "name": "ThirdActual",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-27",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "actual_peak_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "61064.3"
+  },
+  {
+    "name": "ThirdError",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-27",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "peak_error_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "-621.7"
+  },
+  {
+    "name": "FourthForecast",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-28",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "forecast_peak_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "62604.6"
+  },
+  {
+    "name": "FourthActual",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-28",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "actual_peak_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "63406.9"
+  },
+  {
+    "name": "FourthError",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-28",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "peak_error_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "-802.3"
+  },
+  {
+    "name": "FifthForecast",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-29",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "forecast_peak_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "60878.1"
+  },
+  {
+    "name": "FifthActual",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-29",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "actual_peak_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "59702.8"
+  },
+  {
+    "name": "FifthError",
+    "kind": "csv",
+    "file": "results/peaks.csv",
+    "query": {
+      "day": "2026-10-29",
+      "zone": "SystemTotal",
+      "policy": "day_ahead"
+    },
+    "field": "peak_error_mw",
+    "digits": 1,
+    "scale": 1,
+    "display": "1175.3"
+  },
+  {
+    "name": "NorthAhead",
+    "kind": "csv",
+    "file": "results/overall_metrics.csv",
+    "query": {
+      "zone": "North",
+      "policy": "day_ahead"
+    },
+    "field": "wape",
+    "digits": 1,
+    "scale": 100,
+    "display": "7.6"
+  },
+  {
+    "name": "NativeChecks",
+    "kind": "json",
+    "file": "data/source_verification.json",
+    "field": "conditions",
+    "display": "101139"
+  },
+  {
+    "name": "NativeRows",
+    "kind": "json",
+    "file": "data/source_verification.json",
+    "field": "native_csv_rows",
+    "display": "2242"
+  },
+  {
+    "name": "ProjectedRows",
+    "kind": "json",
+    "file": "data/source_verification.json",
+    "field": "projected_rows",
+    "display": "4320"
+  },
+  {
+    "name": "NumericChecks",
+    "kind": "json",
+    "file": "results/verification.json",
+    "field": "conditions",
+    "display": "48524"
+  },
+  {
+    "name": "Comparisons",
+    "kind": "json",
+    "file": "results/verification.json",
+    "field": "comparison_rows",
+    "display": "3240"
+  },
+  {
+    "name": "PeakRows",
+    "kind": "json",
+    "file": "results/verification.json",
+    "field": "peak_rows",
+    "display": "135"
+  },
+  {
+    "name": "FigureChecks",
+    "kind": "json",
+    "file": "figures/verification.json",
+    "field": "conditions",
+    "display": "597"
+  }
+]
