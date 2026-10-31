@@ -1,6 +1,6 @@
 {
-  "timestamp_utc": "2026-10-31T00:52:42.234324+00:00",
-  "status": "LOCAL_ACCEPTANCE_PENDING_REMOTE_CI",
+  "timestamp_utc": "2026-10-31T00:53:49.607485+00:00",
+  "status": "LOCAL_ACCEPTANCE_PASS_RELEASE_PENDING",
   "local_grade": 4,
   "revision_scope": "Fixed five-day deadline audit; original EIA proposal unexecuted",
   "criteria": {
@@ -10,8 +10,8 @@
     "implementation": "PASS:22 authored fixture methods,3 exercises/6 conditions",
     "replay": "PASS:CPython3.10.11 and3.12.14,6 exact files,40 source files unchanged each",
     "figures": "PASS:597 conditions,45 values,360 SVG coordinates,45 labels,9 hashes;current PNGs inspected",
-    "manuscript": "PASS:43 bound values,5 inspected current pages,independent publication scope",
-    "privacy": "PASS_REQUIRED_STAGED_SCAN_BEFORE_PUSH",
+    "manuscript": "PASS:43 source-bound numbers,239 paper conditions,5 current inspected pages,five scoped files",
+    "privacy": "PASS:96-file staged bounded scan and95 canonical Git blob hashes at914217bd638b989a284220604ad8ef169b0ce259;fresh scan accompanies this checkpoint",
     "candidate_and_main_ci": "UNKNOWN:pending exact candidate and main checks",
     "release_tag_and_metadata": "UNKNOWN:pending"
   },
@@ -43,5 +43,6 @@
   },
   "limitations": "Five dependent autumn days; declared archive publication metadata do not prove immutable original delivery. No learned correction,season/authority transfer,reserve saving,production deployment or scientific-priority claim.",
   "changes": "Fixed source plan before target outcomes; complete retrospective cases; independent native/numeric checks; local guard; isolated replays; SVG whitespace and daily legend corrected; two paper prose/command corrections freshly checked.",
-  "stop_reason": "Local scoped package ready for exact candidate/main and metadata verification; no completed release claim yet"
+  "stop_reason": "Local scoped acceptance passes; exact candidate/main Linux checks, matching tree, annotated tag and metadata remain required before release completion.",
+  "grade": 4
 }
