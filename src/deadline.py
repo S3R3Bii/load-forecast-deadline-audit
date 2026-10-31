@@ -1,4 +1,5 @@
 """Select by an aware publication deadline, never by forecast accuracy."""
+
 from datetime import datetime
 from pathlib import Path
 import argparse
@@ -29,19 +30,35 @@ def select(reports, deadline, max_age_minutes=90):
     age = (cutoff - latest).total_seconds()
     if age > max_age_minutes * 60:
         return dict(status="UNAVAILABLE", reason="latest eligible document is stale")
-    return dict(status="SELECTED", doc_id=winners[0]["DocID"], published=winners[0]["PublishDate"], deadline=deadline, age_seconds=int(age))
+    return dict(
+        status="SELECTED",
+        doc_id=winners[0]["DocID"],
+        published=winners[0]["PublishDate"],
+        deadline=deadline,
+        age_seconds=int(age),
+    )
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--deadline", required=True, help="ISO8601 with explicit offset")
-    parser.add_argument("--reports", type=Path, default=Path(__file__).resolve().parents[1] / "data/forecast_listing.json")
+    parser.add_argument(
+        "--deadline", required=True, help="ISO8601 with explicit offset"
+    )
+    parser.add_argument(
+        "--reports",
+        type=Path,
+        default=Path(__file__).resolve().parents[1] / "data/forecast_listing.json",
+    )
     parser.add_argument("--max-age-minutes", type=int, default=90)
     args = parser.parse_args()
     reports = json.loads(args.reports.read_bytes())
     if isinstance(reports, dict):
         reports = reports["documents"]
-    reports = [r for r in reports if "FriendlyName" not in r or r["FriendlyName"].endswith("_csv")]
+    reports = [
+        r
+        for r in reports
+        if "FriendlyName" not in r or r["FriendlyName"].endswith("_csv")
+    ]
     try:
         result = select(reports, args.deadline, args.max_age_minutes)
     except (ValueError, KeyError) as error:
